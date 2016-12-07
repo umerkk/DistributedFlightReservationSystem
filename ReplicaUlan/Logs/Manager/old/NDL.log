@@ -1,0 +1,13 @@
+2016-11-06T21:37:05.464-05:00 INFO    BookingID   FirstName   LastName        Address         Phone            Destination     Date      FlightClass      FlightId
+1           FDummy      LDummay          Saint Marc      1234567890       Montreal      2016/11/06          Economy       1  
+2           FDummy      LDummay          Saint Marc      1234567890       Washington      2016/11/06          Economy       2  
+ 
+2016-11-06T21:39:00.391-05:00 INFO    BookingID   FirstName   LastName        Address         Phone            Destination     Date      FlightClass      FlightId
+1           FDummy      LDummay          Saint Marc      1234567890       Washington      2016/11/06          Economy       1  
+2           FDummy      LDummay          Saint Marc      1234567890       NewDelhi      2016/11/06          Economy       2  
+ 
+2016-11-06T22:14:06.185-05:00 INFO    BookingID   FirstName   LastName        Address         Phone            Destination     Date      FlightClass      FlightId
+1           FDummy      LDummay          Saint Marc      1234567890       Montreal      2016/11/06          Economy       1  
+2           FDummy      LDummay          Saint Marc      1234567890       Washington      2016/11/06          Economy       2  
+3           FDummy      LDummay          Saint Marc      1234567890       Washington      2016/11/06          Economy       2  
+ 

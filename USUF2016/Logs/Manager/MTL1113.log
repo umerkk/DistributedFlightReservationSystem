@@ -1,0 +1,4 @@
+2016-12-05T18:52:04.811-05:00 INFO    createFlight(seatsInFirstClass:5, seatsInBusinessClass:7, seatsInEconomyClass:8, flightDate:2016/12/05, flightTime:13;55, destinaition:Washington). 
+2016-12-05T18:52:04.944-05:00 INFO    true:2 
+2016-12-05T18:53:15.024-05:00 INFO    editFlightRecord(recordID:2, fieldName:flightDate, newValue:2016/12/06). 
+2016-12-05T18:53:15.140-05:00 INFO    null:null 

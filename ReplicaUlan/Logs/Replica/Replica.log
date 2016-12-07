@@ -1,0 +1,1176 @@
+2016-12-04T18:00:13.011-05:00 INFO    Replica is UP! 
+2016-12-04T18:00:13.073-05:00 INFO    ReplicaUmer UDP Server Is UP! 
+2016-12-04T18:00:13.089-05:00 SEVERE  on starting UDP Server 
+2016-12-04T18:00:27.240-05:00 INFO    Replica is UP! 
+2016-12-04T18:00:27.271-05:00 INFO    ReplicaUmer UDP Server Is UP! 
+2016-12-04T18:01:02.732-05:00 INFO    Replica is UP! 
+2016-12-04T18:01:02.763-05:00 INFO    ReplicaUmer UDP Server Is UP! 
+2016-12-04T18:01:12.819-05:00 INFO    Replica is UP! 
+2016-12-04T18:01:12.850-05:00 INFO    ReplicaUmer UDP Server Is UP! 
+2016-12-04T18:09:38.057-05:00 INFO    Replica is UP! 
+2016-12-04T18:09:38.088-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:10:19.317-05:00 INFO    Replica is UP! 
+2016-12-04T18:10:19.364-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:23:00.141-05:00 INFO    Replica is UP! 
+2016-12-04T18:23:00.141-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:23:00.141-05:00 SEVERE  on starting UDP Server 
+2016-12-04T18:33:21.582-05:00 INFO    Replica is UP! 
+2016-12-04T18:33:21.582-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:33:32.554-05:00 INFO    Replica is UP! 
+2016-12-04T18:33:32.554-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:33:32.554-05:00 SEVERE  on starting UDP Server 
+2016-12-04T18:34:19.926-05:00 INFO    Replica is UP! 
+2016-12-04T18:34:19.926-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:34:19.926-05:00 SEVERE  on starting UDP Server 
+2016-12-04T18:34:24.196-05:00 INFO    Replica is UP! 
+2016-12-04T18:34:24.196-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:34:24.196-05:00 SEVERE  on starting UDP Server 
+2016-12-04T18:34:33.582-05:00 INFO    Replica is UP! 
+2016-12-04T18:34:33.582-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:35:11.967-05:00 INFO    Replica is UP! 
+2016-12-04T18:35:11.967-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:36:11.686-05:00 INFO    Replica is UP! 
+2016-12-04T18:36:11.686-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:36:11.686-05:00 SEVERE  on starting UDP Server 
+2016-12-04T18:37:51.489-05:00 INFO    Replica is UP! 
+2016-12-04T18:38:49.442-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T18:38:49.444-05:00 SEVERE  on starting UDP Server 
+2016-12-04T20:38:17.704-05:00 INFO    Replica is UP! 
+2016-12-04T20:38:17.794-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:38:56.055-05:00 INFO    Replica is UP! 
+2016-12-04T20:38:56.070-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:38:56.177-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:39:11.085-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:39:26.091-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:39:41.091-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:39:55.730-05:00 INFO    Replica is UP! 
+2016-12-04T20:39:55.761-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:40:04.600-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.605-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.610-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.615-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.618-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.622-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.626-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.629-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.633-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.636-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.639-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.643-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.646-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.649-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.652-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.655-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.658-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.661-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.664-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.667-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.670-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.676-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.680-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.683-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.685-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.689-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.692-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.695-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:04.698-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:10.811-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:25.811-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:40.810-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:40:55.810-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:41:05.603-05:00 INFO    Replica is UP! 
+2016-12-04T20:41:05.604-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:41:05.688-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:41:20.629-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:41:35.629-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:41:50.624-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:42:05.640-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:42:20.625-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:42:35.630-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:42:50.629-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:43:05.632-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:43:20.631-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:43:35.628-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:43:50.632-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:44:05.636-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:45:15.722-05:00 INFO    Replica is UP! 
+2016-12-04T20:45:15.724-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:45:15.807-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:45:30.793-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:45:45.751-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:46:00.760-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:46:15.758-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:46:30.756-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:46:45.769-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:47:00.755-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:47:21.562-05:00 INFO    Replica is UP! 
+2016-12-04T20:47:21.567-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:47:34.115-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:47:48.989-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:47:59.499-05:00 INFO    Replica is UP! 
+2016-12-04T20:47:59.502-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:48:22.482-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:48:37.145-05:00 INFO    Replica is UP! 
+2016-12-04T20:48:37.148-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:48:37.232-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:48:47.326-05:00 INFO    Replica is UP! 
+2016-12-04T20:48:47.328-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:48:47.405-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:48:55.231-05:00 INFO    Replica is UP! 
+2016-12-04T20:48:55.233-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:49:43.307-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:49:58.215-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:52:15.769-05:00 INFO    Replica is UP! 
+2016-12-04T20:52:15.770-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:52:16.577-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:52:31.550-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:53:05.182-05:00 INFO    Replica is UP! 
+2016-12-04T20:53:05.184-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:53:05.589-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:53:20.587-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:53:35.590-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:53:50.590-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:54:05.592-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:54:20.591-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:54:35.593-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:54:50.588-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:55:05.593-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:55:20.594-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:55:27.230-05:00 INFO    Replica is UP! 
+2016-12-04T20:55:52.965-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:56:11.764-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:12.768-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:13.283-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:13.794-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:14.000-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:14.185-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:14.367-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:14.545-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:14.751-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:14.945-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:15.112-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:15.287-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:15.491-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:15.671-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:15.841-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:16.039-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:16.208-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:16.393-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:16.574-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:16.758-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:16.945-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:17.139-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:17.303-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:17.488-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:17.679-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:17.856-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:18.051-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:18.234-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:18.424-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:18.599-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:18.782-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:18.976-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:19.158-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:19.375-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:19.551-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:19.758-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:19.943-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:20.155-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:20.318-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:20.551-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:20.745-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:20.969-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:21.168-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:21.395-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:21.597-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:21.783-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:21.959-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:22.159-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:22.330-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:22.921-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:25.199-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:25.783-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:26.390-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:26.919-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:27.103-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:27.277-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:27.471-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:27.662-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:27.847-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:28.038-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:28.214-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:28.382-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:28.567-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:28.767-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:28.959-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:29.142-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:29.327-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:29.510-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:29.687-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:29.887-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:44.383-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:56:59.384-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:20.365-05:00 INFO    Replica is UP! 
+2016-12-04T20:59:20.373-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T20:59:43.987-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:44.641-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:44.817-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:45.161-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:45.312-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:45.497-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:45.681-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:45.843-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.577-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.587-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.592-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.596-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.601-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.606-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.610-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.615-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.620-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.623-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.627-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.630-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.633-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.637-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.642-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.645-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.649-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.653-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.658-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.661-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.664-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.668-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.671-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.674-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.677-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.680-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.683-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.688-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.692-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.695-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.698-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.700-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.703-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.706-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.708-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.712-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.715-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T20:59:55.717-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:00:05.789-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:00:20.782-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:00:35.789-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:00:50.791-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:01:05.785-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:01:20.783-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:01:35.791-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:09:44.780-05:00 INFO    Replica is UP! 
+2016-12-04T21:09:44.786-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T21:09:59.285-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:10:08.849-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:10:48.131-05:00 INFO    Replica is UP! 
+2016-12-04T21:10:48.141-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T21:10:51.387-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:18:41.483-05:00 INFO    Replica is UP! 
+2016-12-04T21:18:41.486-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-04T21:18:41.907-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:21:11.905-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:23:41.904-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:26:11.906-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:28:41.913-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:31:11.925-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:33:41.932-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:36:11.945-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T21:38:41.948-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T23:45:48.546-05:00 INFO    Replica is UP! 
+2016-12-04T23:45:48.546-05:00 INFO    ReplicaUmer UDP Server Is UP! 
+2016-12-04T23:45:49.987-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T23:45:50.293-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T23:45:50.832-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T23:45:51.906-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T23:46:04.978-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T23:46:05.307-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-04T23:46:05.844-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:04:22.565-05:00 INFO    Replica is UP! 
+2016-12-05T00:04:22.597-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T00:04:24.162-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:04:39.116-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:04:57.677-05:00 INFO    Replica is UP! 
+2016-12-05T00:04:57.678-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T00:04:58.247-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:05:13.246-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:05:28.245-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:19:26.323-05:00 INFO    Replica is UP! 
+2016-12-05T00:19:26.332-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T00:19:26.801-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:19:41.795-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:34:53.211-05:00 INFO    Replica is UP! 
+2016-12-05T00:34:53.233-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T00:34:53.896-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:35:08.889-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:35:23.890-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:35:38.890-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:35:53.890-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:36:08.891-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:36:23.891-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:36:38.891-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:36:53.891-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:38:41.920-05:00 INFO    Replica is UP! 
+2016-12-05T00:38:41.922-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T00:38:42.301-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:38:57.296-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:39:12.297-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:39:27.297-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:39:42.297-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:39:57.298-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:40:12.298-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:40:27.298-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:40:42.298-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:40:57.299-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:41:12.299-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:41:27.298-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:41:42.298-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:41:57.298-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:42:12.300-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:42:27.299-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:44:32.876-05:00 INFO    Replica is UP! 
+2016-12-05T00:44:32.878-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T00:44:33.277-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:44:48.272-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:45:03.272-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:45:18.272-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:45:33.273-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:45:48.273-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:46:03.273-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:46:18.273-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:46:33.273-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:46:48.273-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:47:03.273-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:47:18.273-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:47:33.274-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:47:48.274-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:48:03.276-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:48:18.276-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:48:33.276-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:48:48.277-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:49:03.277-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:49:18.277-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:49:33.277-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:49:48.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:50:03.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:50:18.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:50:33.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:50:48.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:51:03.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:51:18.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:51:33.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:51:48.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:52:03.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:52:18.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:52:33.277-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:52:48.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:53:03.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:53:18.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:53:33.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:53:48.278-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:54:03.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:54:18.279-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:54:33.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:54:48.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:55:03.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:55:18.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:55:33.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:55:48.279-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:56:03.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:56:18.279-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:56:33.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:56:48.280-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:57:03.281-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:57:18.281-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:57:33.282-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:57:48.282-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:58:03.282-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:58:18.281-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:58:33.286-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:58:48.285-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:59:03.286-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:59:18.287-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T00:59:18.810-05:00 SEVERE  on starting UDP Server 
+2016-12-05T01:14:42.181-05:00 INFO    Replica is UP! 
+2016-12-05T01:14:42.185-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:14:42.765-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:14:57.757-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:15:12.757-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:15:27.757-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:15:42.757-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:15:57.758-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:16:12.757-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:16:25.354-05:00 SEVERE  on starting UDP Server 
+2016-12-05T01:26:05.786-05:00 INFO    Replica is UP! 
+2016-12-05T01:26:05.787-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:26:06.191-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:26:21.187-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:26:36.187-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:26:51.187-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:27:06.188-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:27:21.188-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:27:36.188-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:27:51.188-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:28:06.188-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:28:21.190-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:28:36.188-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:28:51.188-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:29:06.188-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:34:45.710-05:00 INFO    Replica is UP! 
+2016-12-05T01:34:45.712-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:34:46.108-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:35:01.103-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:35:16.105-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:35:31.105-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:35:46.106-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:36:00.021-05:00 SEVERE  on starting UDP Server 
+2016-12-05T01:40:12.104-05:00 INFO    Replica is UP! 
+2016-12-05T01:40:12.112-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:40:24.479-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:41:30.112-05:00 SEVERE  on starting UDP Server 
+2016-12-05T01:45:06.844-05:00 INFO    Replica is UP! 
+2016-12-05T01:45:06.846-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:45:07.242-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:45:30.083-05:00 INFO    Replica is UP! 
+2016-12-05T01:45:30.094-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:45:30.507-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:45:40.584-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T01:49:13.048-05:00 INFO    Replica is UP! 
+2016-12-05T01:49:13.060-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:49:13.649-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:50:00.946-05:00 INFO    Replica is UP! 
+2016-12-05T01:50:00.948-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:50:01.342-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:50:16.336-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:50:27.391-05:00 SEVERE  on starting UDP Server 
+2016-12-05T01:52:35.625-05:00 INFO    Replica is UP! 
+2016-12-05T01:52:35.634-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:52:37.157-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:52:53.476-05:00 INFO    Replica is UP! 
+2016-12-05T01:52:53.478-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:52:53.896-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:53:08.891-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:53:22.923-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T01:53:23.891-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:53:38.892-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:54:03.610-05:00 INFO    Replica is UP! 
+2016-12-05T01:54:03.613-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:54:03.998-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:54:18.992-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:54:31.695-05:00 SEVERE  on starting UDP Server 
+2016-12-05T01:56:46.770-05:00 INFO    Replica is UP! 
+2016-12-05T01:56:46.773-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:56:47.154-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:56:58.241-05:00 SEVERE  on starting UDP Server 
+2016-12-05T01:58:22.830-05:00 INFO    Replica is UP! 
+2016-12-05T01:58:22.832-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T01:58:23.234-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T01:58:32.392-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:02:10.418-05:00 INFO    Replica is UP! 
+2016-12-05T02:02:10.421-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:02:10.828-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:02:15.798-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:03:10.044-05:00 INFO    Replica is UP! 
+2016-12-05T02:03:10.049-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:03:18.581-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:03:29.539-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:04:04.352-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:04:37.557-05:00 INFO    Replica is UP! 
+2016-12-05T02:04:37.563-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:04:40.556-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:10:32.397-05:00 INFO    Replica is UP! 
+2016-12-05T02:10:32.398-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:10:32.791-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:12:40.016-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:14:03.137-05:00 INFO    Replica is UP! 
+2016-12-05T02:14:03.146-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:14:10.988-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:15:30.956-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:19:34.709-05:00 INFO    Replica is UP! 
+2016-12-05T02:19:34.711-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:19:35.115-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:19:47.792-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:21:36.791-05:00 INFO    Replica is UP! 
+2016-12-05T02:21:36.793-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:21:37.187-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:21:47.062-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:22:47.365-05:00 INFO    Replica is UP! 
+2016-12-05T02:22:47.371-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:22:47.843-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:22:51.361-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:27:11.212-05:00 INFO    Replica is UP! 
+2016-12-05T02:27:11.214-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:27:11.595-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:28:19.286-05:00 SEVERE  on starting UDP Server 
+2016-12-05T02:28:29.692-05:00 INFO    Replica is UP! 
+2016-12-05T02:28:29.694-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T02:28:30.092-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T02:28:33.796-05:00 SEVERE  on starting UDP Server 
+2016-12-05T11:11:24.157-05:00 INFO    Replica is UP! 
+2016-12-05T11:11:24.173-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:11:24.657-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:11:46.919-05:00 SEVERE  on starting UDP Server 
+2016-12-05T11:13:13.541-05:00 INFO    Replica is UP! 
+2016-12-05T11:13:13.541-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:13:13.884-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:13:20.587-05:00 SEVERE  on starting UDP Server 
+2016-12-05T11:15:23.459-05:00 INFO    Replica is UP! 
+2016-12-05T11:15:23.474-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:15:24.084-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:15:27.422-05:00 SEVERE  on starting UDP Server 
+2016-12-05T11:18:43.448-05:00 INFO    Replica is UP! 
+2016-12-05T11:18:43.450-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:18:43.870-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:19:03.240-05:00 SEVERE  on starting UDP Server 
+2016-12-05T11:23:30.539-05:00 INFO    Replica is UP! 
+2016-12-05T11:23:30.547-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:23:30.953-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:31:50.303-05:00 INFO    Replica is UP! 
+2016-12-05T11:31:50.329-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:31:51.879-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:32:02.501-05:00 INFO    Replica is UP! 
+2016-12-05T11:32:02.504-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:32:02.878-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:32:23.935-05:00 SEVERE  on starting UDP Server 
+2016-12-05T11:34:26.360-05:00 INFO    Replica is UP! 
+2016-12-05T11:34:26.363-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:34:26.729-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:34:38.493-05:00 SEVERE  on starting UDP Server 
+2016-12-05T11:35:42.830-05:00 INFO    Replica is UP! 
+2016-12-05T11:35:42.834-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:35:43.210-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:36:34.124-05:00 INFO    Replica is UP! 
+2016-12-05T11:36:34.130-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:36:34.480-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:36:41.932-05:00 SEVERE  on starting UDP Server 
+2016-12-05T11:37:22.026-05:00 INFO    Replica is UP! 
+2016-12-05T11:37:22.028-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:37:22.418-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:37:44.874-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:37:51.025-05:00 INFO    Replica is UP! 
+2016-12-05T11:37:51.028-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:37:51.369-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:38:12.313-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T11:59:28.512-05:00 INFO    Replica is UP! 
+2016-12-05T11:59:28.531-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T11:59:28.923-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T11:59:47.817-05:00 INFO    Unknow Sender : FrontEnd 
+2016-12-05T12:00:34.851-05:00 INFO    Replica is UP! 
+2016-12-05T12:00:34.854-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T12:00:35.203-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:00:59.724-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T12:03:48.547-05:00 INFO    Replica is UP! 
+2016-12-05T12:03:48.565-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T12:03:48.949-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:04:15.197-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T12:09:34.192-05:00 INFO    Replica is UP! 
+2016-12-05T12:09:34.195-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T12:09:34.634-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:09:47.177-05:00 INFO    Replica is UP! 
+2016-12-05T12:09:47.177-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T12:09:47.521-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:09:51.387-05:00 INFO    Replica is UP! 
+2016-12-05T12:09:51.387-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T12:10:00.237-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:10:08.643-05:00 INFO    Unknow Sender : FrontEnd 
+2016-12-05T12:11:23.811-05:00 INFO    Replica is UP! 
+2016-12-05T12:11:23.827-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T12:11:27.486-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:12:39.705-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T12:20:33.229-05:00 INFO    Replica is UP! 
+2016-12-05T12:20:33.250-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T12:20:33.730-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:20:48.722-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:20:54.308-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T12:21:03.723-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:21:18.723-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:21:33.724-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:21:48.725-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:22:03.726-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:22:18.727-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:22:33.728-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:22:48.729-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:23:03.729-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:23:18.730-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:23:33.730-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:23:48.731-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:24:03.732-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:24:18.733-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:24:33.733-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:24:48.734-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:25:03.736-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:25:18.736-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:25:33.738-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:25:48.738-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:26:03.739-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:26:18.740-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:26:33.741-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:26:48.742-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:27:03.744-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:27:18.744-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:27:33.745-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:27:48.745-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:28:03.746-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:28:18.748-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:28:33.748-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:28:48.749-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:29:03.750-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:29:18.751-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:29:33.752-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:29:48.753-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:30:03.754-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:30:18.755-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:30:33.757-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:31:05.680-05:00 INFO    Replica is UP! 
+2016-12-05T12:31:05.727-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T12:31:06.268-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:31:21.247-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:31:36.248-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T12:31:41.931-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T12:31:51.249-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T13:11:42.622-05:00 INFO    Replica is UP! 
+2016-12-05T13:11:42.633-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T13:11:43.975-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T13:11:56.435-05:00 INFO    Replica is UP! 
+2016-12-05T13:11:56.441-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T13:11:56.873-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T13:13:32.301-05:00 INFO    Unknow Sender : FrontEnd 
+2016-12-05T13:15:31.722-05:00 INFO    Replica is UP! 
+2016-12-05T13:15:31.730-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T13:15:35.276-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T13:17:59.608-05:00 INFO    Unknow Sender : FrontEnd 
+2016-12-05T13:18:16.130-05:00 INFO    Replica is UP! 
+2016-12-05T13:18:16.137-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T13:18:20.890-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T13:18:40.731-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T13:19:52.690-05:00 SEVERE  on starting UDP Server 
+2016-12-05T13:20:14.675-05:00 INFO    Replica is UP! 
+2016-12-05T13:20:14.679-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T13:20:15.004-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T13:20:18.274-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T13:20:18.288-05:00 SEVERE  on starting UDP Server 
+2016-12-05T13:20:47.124-05:00 INFO    Replica is UP! 
+2016-12-05T13:20:47.138-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T13:20:49.198-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T13:21:05.605-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T13:21:39.782-05:00 SEVERE  on starting UDP Server 
+2016-12-05T14:43:05.605-05:00 INFO    Replica is UP! 
+2016-12-05T14:43:05.611-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T14:43:12.695-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T14:44:00.064-05:00 INFO    Replica is UP! 
+2016-12-05T14:44:00.072-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T14:44:00.486-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T14:44:51.531-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T14:47:54.144-05:00 INFO    Replica is UP! 
+2016-12-05T14:47:54.147-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T14:47:54.525-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T14:48:01.823-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T14:48:01.996-05:00 SEVERE  on starting UDP Server 
+2016-12-05T14:48:17.951-05:00 INFO    Replica is UP! 
+2016-12-05T14:48:17.954-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T14:48:18.313-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T14:48:21.180-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T14:48:58.118-05:00 SEVERE  on starting UDP Server 
+2016-12-05T14:58:26.695-05:00 INFO    Replica is UP! 
+2016-12-05T14:58:26.709-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T14:58:27.201-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T14:58:33.678-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T14:59:38.809-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T14:59:38.811-05:00 SEVERE  on starting UDP Server 
+2016-12-05T15:05:11.527-05:00 INFO    Replica is UP! 
+2016-12-05T15:05:11.543-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T15:05:12.175-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T15:05:17.174-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T15:07:23.211-05:00 SEVERE  on starting UDP Server 
+2016-12-05T15:10:43.825-05:00 INFO    Replica is UP! 
+2016-12-05T15:10:43.835-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T15:10:44.262-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T15:10:49.961-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T15:12:20.057-05:00 SEVERE  on starting UDP Server 
+2016-12-05T16:08:16.393-05:00 INFO    Replica is UP! 
+2016-12-05T16:08:16.409-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T16:08:16.846-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T16:08:42.037-05:00 INFO    Replica is UP! 
+2016-12-05T16:08:42.053-05:00 INFO    ReplicaSajjad UDP Server Is UP! 
+2016-12-05T16:08:42.412-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T16:08:47.403-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T16:09:23.746-05:00 SEVERE  on starting UDP Server 
+2016-12-05T18:01:56.968-05:00 INFO    Replica is UP! 
+2016-12-05T18:01:56.975-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T18:01:57.413-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T18:03:29.266-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T18:18:52.311-05:00 INFO    Replica is UP! 
+2016-12-05T18:18:52.318-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T18:18:52.660-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T18:20:10.761-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T18:24:38.975-05:00 INFO    Replica is UP! 
+2016-12-05T18:24:38.978-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T18:24:39.343-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T18:25:26.166-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T18:34:29.795-05:00 INFO    Replica is UP! 
+2016-12-05T18:34:29.802-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T18:34:30.165-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T18:35:19.580-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T18:38:54.211-05:00 INFO    Replica is UP! 
+2016-12-05T18:38:54.213-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T18:38:54.541-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T18:39:35.808-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T18:46:34.600-05:00 INFO    Replica is UP! 
+2016-12-05T18:46:34.603-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T18:46:34.925-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T18:47:16.776-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T18:47:24.204-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T18:52:04.836-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T18:53:15.061-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:02:47.264-05:00 INFO    Replica is UP! 
+2016-12-05T19:02:47.285-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T19:02:47.883-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T19:03:27.996-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:04:06.941-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:09:29.708-05:00 INFO    Replica is UP! 
+2016-12-05T19:09:29.729-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T19:09:30.269-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T19:10:35.302-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:11:09.966-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:13:54.629-05:00 INFO    Replica is UP! 
+2016-12-05T19:13:54.632-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T19:13:54.969-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T19:14:39.362-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:15:01.195-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:15:40.242-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T19:16:57.416-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T19:18:42.520-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:20:15.700-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:30:55.933-05:00 INFO    Replica is UP! 
+2016-12-05T19:30:55.936-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T19:30:56.260-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T19:32:09.561-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:32:09.702-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:38:09.400-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:41:07.058-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:41:51.344-05:00 INFO    Replica is UP! 
+2016-12-05T19:41:51.365-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T19:41:52.021-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T19:43:00.157-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:43:00.278-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:43:00.462-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:46:46.128-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:48:52.545-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:50:28.853-05:00 INFO    Replica is UP! 
+2016-12-05T19:50:28.856-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T19:50:29.240-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T19:50:33.307-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:50:33.449-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:50:33.608-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:50:33.851-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:52:41.241-05:00 INFO    Replica is UP! 
+2016-12-05T19:52:41.244-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T19:52:41.564-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T19:52:59.319-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:53:59.449-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:53:59.624-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:53:59.841-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:58:34.167-05:00 INFO    Replica is UP! 
+2016-12-05T19:58:34.170-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T19:58:34.508-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T19:59:00.876-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:59:01.028-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:59:01.180-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T19:59:01.364-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:04:58.163-05:00 INFO    Replica is UP! 
+2016-12-05T20:04:58.166-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:04:58.494-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:05:14.972-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:05:15.166-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:05:15.311-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:05:15.490-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:07:34.183-05:00 INFO    Replica is UP! 
+2016-12-05T20:07:34.186-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:07:34.509-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:07:54.000-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:07:54.146-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:07:54.279-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:07:54.504-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:07:54.691-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:11:19.556-05:00 INFO    Replica is UP! 
+2016-12-05T20:11:19.559-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:11:19.898-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:12:03.644-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:12:03.849-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:12:03.960-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:12:04.167-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:12:04.370-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:13:58.534-05:00 INFO    Replica is UP! 
+2016-12-05T20:13:58.538-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:13:58.903-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:14:28.558-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:14:28.707-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:14:28.854-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:14:29.061-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:14:29.285-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:22:39.942-05:00 INFO    Replica is UP! 
+2016-12-05T20:22:39.954-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:22:40.370-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:22:48.735-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:22:48.941-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:22:49.092-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:22:49.320-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:22:49.468-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:22:49.717-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T20:22:49.893-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T20:22:49.894-05:00 SEVERE  on starting UDP Server 
+2016-12-05T20:27:28.107-05:00 INFO    Replica is UP! 
+2016-12-05T20:27:28.110-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:27:28.467-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:27:41.630-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:27:41.753-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:27:41.843-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:27:41.992-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:27:42.146-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:27:42.347-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T20:27:42.493-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T20:27:42.494-05:00 SEVERE  on starting UDP Server 
+2016-12-05T20:31:45.925-05:00 INFO    Replica is UP! 
+2016-12-05T20:31:45.928-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:31:46.270-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:31:59.460-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:31:59.555-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:31:59.637-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:31:59.846-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:32:00.009-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:32:00.214-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T20:32:00.416-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T20:32:00.417-05:00 SEVERE  on starting UDP Server 
+2016-12-05T20:39:10.104-05:00 INFO    Replica is UP! 
+2016-12-05T20:39:10.107-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:39:10.450-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:39:35.193-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:39:35.310-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:39:35.440-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:39:35.574-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:39:35.728-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:40:26.574-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T20:40:26.710-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T20:40:26.711-05:00 SEVERE  on starting UDP Server 
+2016-12-05T20:47:42.960-05:00 INFO    Replica is UP! 
+2016-12-05T20:47:42.974-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:47:43.432-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:48:43.285-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:48:43.490-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:48:43.767-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:48:44.944-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:48:45.140-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:48:45.543-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T20:48:46.048-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T20:48:46.049-05:00 SEVERE  on starting UDP Server 
+2016-12-05T20:56:24.962-05:00 INFO    Replica is UP! 
+2016-12-05T20:56:24.975-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T20:56:25.388-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T20:56:36.986-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:56:37.280-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:56:37.451-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:56:37.728-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T20:56:38.061-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T20:56:38.380-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T20:56:38.585-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T20:56:38.587-05:00 SEVERE  on starting UDP Server 
+2016-12-05T21:02:32.418-05:00 INFO    Replica is UP! 
+2016-12-05T21:02:32.475-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T21:02:33.133-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T21:02:40.593-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:02:40.729-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:02:40.912-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:02:41.078-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:02:41.344-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T21:02:41.747-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T21:02:41.977-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T21:02:41.978-05:00 SEVERE  on starting UDP Server 
+2016-12-05T21:06:59.340-05:00 INFO    Replica is UP! 
+2016-12-05T21:06:59.343-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T21:06:59.697-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T21:07:14.317-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:10:13.158-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:11:54.248-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:14:57.983-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:15:38.547-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:17:31.709-05:00 INFO    Replica is UP! 
+2016-12-05T21:17:31.717-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T21:17:32.084-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T21:24:27.073-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:37:57.188-05:00 INFO    Replica is UP! 
+2016-12-05T21:37:57.209-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T21:37:57.829-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T21:38:49.076-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T21:48:12.234-05:00 INFO    Replica is UP! 
+2016-12-05T21:48:12.255-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T21:48:12.843-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T21:48:50.319-05:00 INFO    Replica is UP! 
+2016-12-05T21:48:50.322-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T21:48:50.789-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T21:49:13.441-05:00 INFO    Replica is UP! 
+2016-12-05T21:49:13.444-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T21:49:13.835-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T21:50:38.939-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:09:59.456-05:00 INFO    Replica is UP! 
+2016-12-05T22:09:59.487-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:10:00.222-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:10:15.224-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:10:18.109-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:10:30.225-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:10:45.226-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:11:00.227-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:13:45.155-05:00 INFO    Replica is UP! 
+2016-12-05T22:13:45.170-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:13:45.514-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:13:52.036-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:13:52.199-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:13:52.374-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:13:52.566-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:13:52.805-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:13:53.167-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:13:53.302-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T22:13:53.303-05:00 SEVERE  on starting UDP Server 
+2016-12-05T22:17:59.066-05:00 INFO    Replica is UP! 
+2016-12-05T22:17:59.066-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:17:59.456-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:18:14.443-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:18:29.444-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:18:44.444-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:18:46.148-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:18:46.314-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:18:46.445-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:18:46.586-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:18:46.732-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:18:46.912-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:18:47.071-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T22:22:36.113-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.118-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.124-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.127-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.131-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.134-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.137-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.139-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.175-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.182-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.186-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.200-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.205-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.210-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:36.231-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:44.453-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:22:59.454-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:23:40.632-05:00 INFO    Replica is UP! 
+2016-12-05T22:23:40.632-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:23:41.023-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:23:56.008-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:24:05.865-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:24:05.960-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:24:06.114-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:24:06.269-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:24:06.442-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:24:06.756-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:24:06.956-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T22:24:11.009-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:24:26.010-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:24:41.011-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:24:56.010-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:25:11.011-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:25:26.012-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:25:41.014-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:25:56.015-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:26:11.015-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:26:26.016-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:26:41.017-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:26:56.019-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:27:11.020-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:27:26.020-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:27:41.021-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:27:56.022-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:28:11.023-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:28:26.024-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:28:41.024-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:28:56.026-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:29:11.026-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:29:26.028-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:29:41.027-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:29:56.028-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:30:11.029-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:30:26.030-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:30:41.031-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:30:56.032-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:31:11.033-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:31:26.034-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:31:41.035-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:31:56.036-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:32:11.037-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:32:26.037-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:32:41.038-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:32:56.039-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:33:11.040-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:33:57.404-05:00 INFO    Replica is UP! 
+2016-12-05T22:33:57.404-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:33:57.810-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:34:12.811-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:34:13.996-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:34:14.128-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:34:14.264-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:34:14.428-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:34:14.584-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:34:14.732-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:34:18.749-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T22:34:27.812-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:34:42.813-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:34:57.813-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:35:12.814-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:35:27.814-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:35:42.815-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:35:57.816-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:36:12.817-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:36:27.818-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:36:42.819-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:37:03.881-05:00 INFO    Replica is UP! 
+2016-12-05T22:37:03.881-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:37:04.225-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:37:19.228-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:37:28.027-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:37:28.150-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:37:28.334-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:37:28.493-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:37:28.692-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:37:28.899-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:37:29.093-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T22:37:34.227-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:37:49.228-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:38:04.228-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:38:19.229-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:38:34.230-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:38:49.231-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:39:04.232-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:39:19.234-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:39:34.234-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:39:49.234-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:40:04.235-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:40:19.235-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:40:34.236-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:40:49.237-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:41:04.238-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:41:19.239-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:41:34.240-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:41:49.241-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:42:04.242-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:42:19.243-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:42:34.244-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:42:49.245-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:43:04.246-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:43:35.689-05:00 INFO    Replica is UP! 
+2016-12-05T22:43:35.689-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:43:36.048-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:43:51.050-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:44:06.058-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:44:08.245-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:44:08.375-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:44:08.531-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:44:08.730-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:44:08.897-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:44:09.200-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:44:09.385-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T22:44:21.059-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:44:36.060-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:44:51.060-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:45:06.061-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:45:21.061-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:45:36.062-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:45:51.063-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:46:06.064-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:46:21.065-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:46:36.066-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:46:51.067-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:47:06.068-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:47:59.732-05:00 INFO    Replica is UP! 
+2016-12-05T22:47:59.732-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:48:00.169-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:48:15.170-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:48:26.990-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:48:27.143-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:48:27.326-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:48:27.517-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:48:27.682-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:48:27.893-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:48:28.160-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T22:48:50.511-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:48:50.515-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:49:00.171-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:49:15.172-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:49:30.271-05:00 INFO    Replica is UP! 
+2016-12-05T22:49:30.271-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:49:30.615-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:49:45.617-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:50:00.618-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:50:09.628-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:50:09.760-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:50:09.970-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:50:10.136-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:50:10.362-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:50:10.527-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:50:10.703-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T22:50:11.096-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T22:50:15.628-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:50:30.628-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:50:45.629-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:51:00.630-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:51:15.632-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:51:30.632-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:51:45.634-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:52:00.634-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:52:15.635-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:52:30.636-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:52:45.636-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:53:00.637-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:53:15.639-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:53:30.642-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:53:45.640-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:54:00.641-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:54:15.642-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:58:55.441-05:00 INFO    Replica is UP! 
+2016-12-05T22:58:55.441-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:58:56.681-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:59:28.680-05:00 INFO    Replica is UP! 
+2016-12-05T22:59:28.696-05:00 INFO    ReplicaUlan UDP Server Is UP! 
+2016-12-05T22:59:29.040-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:59:41.604-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:59:41.722-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:59:41.870-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:59:42.012-05:00 INFO    Executing Opernation : editFlightRecord, on Server :Montreal 
+2016-12-05T22:59:42.167-05:00 INFO    Executing Opernation : bookFlight, on Server :Montreal 
+2016-12-05T22:59:44.040-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T22:59:46.534-05:00 INFO    Executing Opernation : editFlightRecord, on Server :NewDelhi 
+2016-12-05T22:59:46.691-05:00 INFO    Executing Opernation : getBookedFlightCount, on Server :Montreal 
+2016-12-05T22:59:47.120-05:00 INFO    Executing Opernation : transferReservation, on Server :Montreal 
+2016-12-05T22:59:59.042-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:00:14.043-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:00:29.044-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:00:44.044-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:00:59.045-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:01:14.046-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:01:29.048-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:01:44.048-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:01:59.049-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:02:14.050-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:02:29.051-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:02:44.052-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:02:59.053-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:03:14.054-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:03:29.055-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:03:44.055-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:03:59.056-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:04:14.056-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:04:29.057-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:04:44.058-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 
+2016-12-05T23:04:59.059-05:00 INFO    Executing Opernation : heatBeat, on Server :Montreal 

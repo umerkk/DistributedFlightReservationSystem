@@ -1,0 +1,14 @@
+2016-11-06T21:34:35.625-05:00 INFO    editFlightRecord(recordID:1, fieldName:flightDate, newValue:2016/11/06). 
+2016-11-06T21:34:35.632-05:00 INFO    Response [returnID=-1, status=true, message=] 
+2016-11-06T21:34:38.356-05:00 INFO    BookingID   FirstName   LastName        Address         Phone            Destination     Date      FlightClass      FlightId
+1           FDummy      LDummay          Saint Marc      1234567890       Montreal      2016/11/06          Economy       1  
+2           FDummy      LDummay          Saint Marc      1234567890       NewDelhi      2016/11/06          Economy       2  
+ 
+2016-11-06T21:37:05.464-05:00 INFO    BookingID   FirstName   LastName        Address         Phone            Destination     Date      FlightClass      FlightId
+1           FDummy      LDummay          Saint Marc      1234567890       Montreal      2016/11/06          Economy       1  
+2           FDummy      LDummay          Saint Marc      1234567890       Washington      2016/11/06          Economy       2  
+ 
+2016-11-06T21:39:00.391-05:00 INFO    BookingID   FirstName   LastName        Address         Phone            Destination     Date      FlightClass      FlightId
+1           FDummy      LDummay          Saint Marc      1234567890       Washington      2016/11/06          Economy       1  
+2           FDummy      LDummay          Saint Marc      1234567890       NewDelhi      2016/11/06          Economy       2  
+ 

@@ -1,0 +1,2 @@
+2016-12-05T14:02:24.123-05:00 INFO    createFlight(seatsInFirstClass:10, seatsInBusinessClass:10, seatsInEconomyClass:10, flightDate:2016/12/12, flightTime:12;12, destinaition:Washington). 
+2016-12-05T14:08:01.104-05:00 SEVERE  an exception was thrown 

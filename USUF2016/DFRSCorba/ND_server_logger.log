@@ -1,0 +1,6 @@
+Nov 22, 2016 6:09:08 PM DFRSApp.DFRSServer bookFlight
+INFO: tried to book a flight that didnt match any flight data 11/22 or destination WASHINGTON
+Nov 22, 2016 6:10:59 PM DFRSApp.DFRSServer bookFlight
+INFO: bookFlight : Passenger{firstName='A', lastName='A', address='A', phone='A', destination='WASHINGTON', date='11/22', flightClass='ECONOMY', recordId='123138cc-826d-48b3-862b-d89338d04703'}
+Nov 22, 2016 6:11:33 PM DFRSApp.DFRSServer bookFlight
+INFO: tried to book a flight that didnt match any flight data 11/22 or destination WASHINGTON
